@@ -1,0 +1,46 @@
+{
+  "defaults": {
+    "title": "Build Your AI Product Showcase Website in Minutes - WaveAny",
+    "title_desc": "Build Your AI Product Showcase Website in Minutes",
+    "description": "WaveAny provides professional website templates for independent developers, entrepreneurs, and small teams. No design or coding required, launch your showcase website in minutes. Offers responsive layout, SEO-friendly structure, and one-click deployment features, saving you time and allowing you to focus on product development! Download the free template now.",
+    "keywords": "WaveAny, AI Product Website, Nuxt JS Template, Nuxt.js Template, Independent Developer Website Template, Entrepreneur Website Template, Quickly Build Product Website, One-Click Deployment Developer Website, Open Source Website Template Download"
+  },
+  "group": {
+    "title": "Join WaveAny Community",
+    "description": "Join our exclusive community to experience the latest product features, get exclusive discounts and technical support.",
+    "communication": "Communicate directly with product founders and technical experts, share unique insights, and explore the infinite possibilities of AI technology together.",
+    "disclaimer": "We are committed to creating a high-quality technical exchange circle.",
+    "scan_button": "Join Now",
+    "qr_code_alt": "WaveAny Elite Circle - Scan to Join",
+    "join_prompt": "Join the community for product discounts",
+    "benefits": {
+      "vip": {
+        "title": "Exclusive Benefits",
+        "desc": "Priority experience for members"
+      },
+      "support": {
+        "title": "Technical Support",
+        "desc": "Professional Q&A"
+      },
+      "discount": {
+        "title": "Limited Time Offer",
+        "desc": "Community exclusive discounts"
+      }
+    }
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "description": "Learn how WaveAny collects, uses, and protects your personal information.",
+    "keywords": "Privacy Policy, Data Protection, Personal Information, User Agreement"
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "description": "Learn about the terms and conditions of using our services.",
+    "keywords": "Terms of Service, Conditions of Use, Legal Notice, User Agreement"
+  },
+  "sales": {
+    "title": "Sales Terms",
+    "description": "Learn about WaveAny's sales terms.",
+    "keywords": "Sales Terms"
+  }
+}

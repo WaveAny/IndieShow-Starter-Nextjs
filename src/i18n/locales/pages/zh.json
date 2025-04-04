@@ -1,0 +1,46 @@
+{
+  "defaults": {
+    "title": "几分钟构建您的 AI 产品展示官网 - WaveAny",
+    "description": "WaveAny是一个为独立开发者、创业者和中小团队提供专业官网模板，无需设计或编码，几分钟即可上线作品展示网站。提供响应式布局、SEO友好结构和一键部署功能，节省时间成本，让您专注产品开发！立即下载免费模板",
+    "keywords": "WaveAny,AI产品官网,Next JS 模板,Next.js 模板,独立开发者官网模板,创业者网站模板,快速搭建产品官网,一键部署开发者网站,开源官网模板下载"
+  },
+
+  "group": {
+    "title": "加入WaveAny社群",
+    "description": "加入专属社群，抢先体验最新产品功能，获取独家优惠和技术支持。",
+    "communication": "与产品创始人和技术专家零距离交流，分享独到见解，共同探讨 AI 技术的无限可能。",
+    "disclaimer": "我们致力于打造高质量的技术交流圈。",
+    "scan_button": "立即加入",
+    "qr_code_alt": "WaveAny精英圈 - 扫码加入",
+    "join_prompt": "加入社群可获取产品折扣",
+    "benefits": {
+      "vip": {
+        "title": "专属福利",
+        "desc": "会员优先体验"
+      },
+      "support": {
+        "title": "技术支持",
+        "desc": "专业答疑解惑"
+      },
+      "discount": {
+        "title": "限时优惠",
+        "desc": "社群专享折扣"
+      }
+    }
+  },
+  "privacy": {
+    "title": "隐私政策",
+    "description": "了解 WaveAny 如何收集、使用和保护您的个人信息。",
+    "keywords": "隐私政策,数据保护,个人信息,用户协议"
+  },
+  "terms": {
+    "title": "服务条款",
+    "description": "了解使用我们服务的条款和条件。",
+    "keywords": "服务条款,使用条件,法律声明,用户协议"
+  },
+  "sales": {
+    "title": "销售条款",
+    "description": "了解 WaveAny 的销售条款。",
+    "keywords": "销售条款"
+  }
+}

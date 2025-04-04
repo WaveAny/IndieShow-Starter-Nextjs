@@ -1,0 +1,25 @@
+{
+  "common": {
+    "language": {
+      "switch": "切换语言",
+      "en": "English",
+      "zh": "中文"
+    }
+  },
+  "error": {
+    "status": "系统错误",
+    "title": "抱歉！",
+    "subtitle": "遇到错误",
+    "description": "发生了一个错误，请稍后再试。",
+    "retry": "重试",
+    "home": "返回首页"
+  },
+  "notFound": {
+    "status": "页面未找到",
+    "title": "哎呀！",
+    "subtitle": "出错了",
+    "description": "抱歉，我们无法找到您要访问的页面 {path}",
+    "home": "返回首页",
+    "back": "返回上一页"
+  }
+}

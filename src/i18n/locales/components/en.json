@@ -1,0 +1,172 @@
+{
+  "header": {
+    "title": "WaveAny",
+    "tips": "🎁 Coming Soon!",
+    "navigation": {
+      "works": "My Works",
+      "follow": "Follow Us",
+      "group": "Community"
+    }
+  },
+  "announcement": {
+    "message": "Welcome to WaveAny - completely free, open-source, and quickly build your product showcase website!"
+  },
+  "hero": {
+    "subTitleStart": "Build any",
+    "subTitleHighlight": "AI product",
+    "subTitleEnd": "showcase website in minutes, efficiently and elegantly!",
+    "description": "IndieShow is a Next.js template for building developer product showcase websites, no code required, allowing you to focus on product creation.",
+    "slogan": "Let creativity flow like waves, unique and powerful.",
+    "buttons": {
+      "deploy": "Deploy Now",
+      "works": "My Works"
+    },
+    "tips": "Completely Free!"
+  },
+  "feature": {
+    "title": {
+      "part1": "What is",
+      "part2": "IndieShow?"
+    },
+    "description": "An extremely optimized product website template based on Next.js, quickly build showcase sites. Launch quickly, easily obtain precise traffic, help independent developers focus on innovation, and win at the starting line!",
+    "technologyStack": "Technology Stack",
+    "poweredBy": "Powered By",
+    "features": {
+      "rapidIteration": {
+        "title": "Rapid Iteration",
+        "description": "Continuous integration and rapid iterative development ensure the project stays up-to-date and enhances the development experience."
+      },
+      "performanceOptimization": {
+        "title": "Performance Optimization",
+        "description": "Leverage cutting-edge technologies to optimize performance, delivering a smooth user experience and improving website loading speed."
+      },
+      "easyDeployment": {
+        "title": "Easy Deployment",
+        "description": "Simplified deployment process with an automated release system, enabling effortless project launch and reducing operational costs."
+      },
+      "responsiveDesign": {
+        "title": "Responsive Design",
+        "description": "Seamlessly adapts to various device sizes, from mobile to desktop, providing a consistent user experience."
+      },
+      "globalSupport": {
+        "title": "Global Support",
+        "description": "Built-in multilingual support system facilitates global deployment, helping products expand into international markets."
+      },
+      "technicalSupport": {
+        "title": "Technical Support",
+        "description": "Professional technical support ensures worry-free product usage and resolves any issues during the launch process."
+      }
+    },
+    "technologies": {
+      "nextjs": {
+        "name": "Next.js"
+      },
+      "react": {
+        "name": "React"
+      },
+      "typescript": {
+        "name": "TypeScript"
+      },
+      "tailwind": {
+        "name": "Tailwind CSS"
+      },
+      "vercel": {
+        "name": "Vercel"
+      }
+    }
+  },
+  "showcase": {
+    "title": "My Works",
+    "description": "Explore our curated projects, each representing innovation and excellence.",
+    "viewDetails": "View Details",
+    "scanQR": "Scan QR Code",
+    "close": "Close",
+    "scanQRDescription": "Scan QR Code",
+    "scanQRTip": "Scan QR code to experience",
+    "projects": {
+      "project1": {
+        "title": "IndieShow-Nuxt",
+        "description": "Product showcase website template based on Nuxt 3",
+        "qr_code_description": "Scan QR code to experience"
+      },
+      "project2": {
+        "title": "IndieShow-Nextjs",
+        "description": "Product showcase website template based on Next.js 15",
+        "qr_code_description": "Scan QR code to experience"
+      },
+      "project3": {
+        "title": "Sample Project",
+        "description": "Sample project description",
+        "qr_code_description": "Scan QR code to download Web version"
+      },
+      "project4": {
+        "title": "Sample Project",
+        "description": "Sample project description",
+        "qr_code_description": "Scan QR code to download client"
+      },
+      "project5": {
+        "title": "Sample Project",
+        "description": "Sample project description",
+        "qr_code_description": "Scan QR code to download iOS version"
+      },
+      "project6": {
+        "title": "Sample Project",
+        "description": "Sample project description",
+        "qr_code_description": "Scan QR code to download iOS version"
+      }
+    },
+    "categories": {
+      "all": "All",
+      "web": "Website",
+      "mobile": "Mobile",
+      "desktop": "Desktop"
+    },
+    "status": {
+      "online": "Online",
+      "developing": "Developing"
+    },
+    "platforms": {
+      "web": "Web",
+      "desktop": "Desktop",
+      "mobile": "Mobile",
+      "ios": "iOS",
+      "android": "Android"
+    }
+  },
+  "cta": {
+    "title": "Follow Us",
+    "description": "Get the latest updates and exclusive content. Let's explore the infinite possibilities of AI together!",
+    "button": "Join Discord Community"
+  },
+  "footer": {
+    "description": "A Next.js template for building developer product showcase websites, no code required, allowing you to focus on product creation.",
+    "copyright": "All Rights Reserved",
+    "icp": "",
+    "icp_accessible_hint": "Visit Ministry of Industry and Information Technology website",
+    "police": "",
+    "visit_external_site": "Visit external website",
+    "about": "About",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "sales": "Sales Terms",
+    "features": "Features",
+    "showcase": "My Works",
+    "support": "Support",
+    "contact": "Contact Us",
+    "community": "Community",
+    "social": {
+      "github": "GitHub",
+      "email": "Email"
+    },
+    "friends": "Friends",
+    "friends_links": {
+      "0": {
+        "name": "WaveAny Inc.",
+        "url": "https://waveany.com"
+      }
+    }
+  },
+  "scroll": {
+    "backToTop": "Back to Top"
+  }
+}

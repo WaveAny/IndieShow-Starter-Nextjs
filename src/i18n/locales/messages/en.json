@@ -1,0 +1,25 @@
+{
+  "common": {
+    "language": {
+      "switch": "Switch Language",
+      "en": "English",
+      "zh": "中文"
+    }
+  },
+  "error": {
+    "status": "System Error",
+    "title": "Sorry!",
+    "subtitle": "Something Went Wrong",
+    "description": "An error occurred. Please try again later.",
+    "retry": "Try Again",
+    "home": "Back Home"
+  },
+  "notFound": {
+    "status": "Page Not Found",
+    "title": "Oops!",
+    "subtitle": "Something's Wrong",
+    "description": "Sorry, we couldn't find the page {path}",
+    "home": "Back Home",
+    "back": "Go Back"
+  }
+}
