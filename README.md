@@ -69,7 +69,7 @@ IndieShow-Starter-Nextjs is a product showcase website template designed specifi
 ## 🌈 Live Demo
 
 - **Demo Site**: [https://indieshow.waveany.com](https://indieshow.waveany.com)
-- **Documentation**: [View Docs](https://docs.waveany.com)
+- **Documentation**: [View Docs](https://docs.indieshow.waveany.com/nextjs)
 
 <p align="center">
   <a href="https://indieshow.waveany.com/"><img src="./public/images/IndieShow-banner.png?raw=true" alt="IndieShow banner"></a>

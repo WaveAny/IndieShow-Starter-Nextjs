@@ -1,7 +1,7 @@
 {
-  "name": "WaveAny",
-  "short_name": "WaveAny",
-  "description": "WaveAny 是一个为独立开发者快速构建产品展示官网的 Next.js 模板，无需代码，告别复杂开发，让您专注产品创造。",
+  "name": "IndieShow",
+  "short_name": "IndieShow",
+  "description": "IndieShow 是一个为独立开发者快速构建产品展示官网的 Next.js 模板，无需代码，告别复杂开发，让您专注产品创造。",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",

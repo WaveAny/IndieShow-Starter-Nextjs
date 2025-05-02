@@ -69,7 +69,7 @@ IndieShow-Starter-Nextjs 是一个专为独立开发者设计的产品展示网�
 ## 🌈 在线演示
 
 - **演示站点**: [https://indieshow.waveany.com](https://indieshow.waveany.com)
-- **开发文档**: [查看文档](https://docs.waveany.com)
+- **开发文档**: [查看文档](https://docs.indieshow.waveany.com/nextjs)
 
 <p align="center">
   <a href="https://indieshow.waveany.com/"><img src="./public/images/IndieShow-banner.png?raw=true" alt="IndieShow banner"></a>
